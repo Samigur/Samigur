@@ -5,16 +5,16 @@ Mi nombre es Sebastian Ramirez, un apasionado desarrollador de software con expe
 ## Sobre mí
 - 💻 Estoy cursando el 5to semestre en Ing. Informática y cuento con 1 año de experiencia en desarrollo de software.
 - 🔭 Actualmente estoy trabajando en proyectos personales para ampliar mi portafolio.
-- 🌱 Estoy aprendiendo [tecnología o habilidad que estás desarrollando].
+- 🌱 Estoy aprendiendo Backend.
 - 👯 Busco colaborar en proyectos de código abierto.
 
 ## Habilidades Técnicas
 - Lenguajes de Programación: Python, Html, Ccs, JavaScript, React.
 - Frameworks y Tecnologías: Angular.js
-- Bases de Datos: SQL
+- Bases de Datos: MySQL
 
 ## Educación
-- Universidad LaSalle - Cursando 5to semestre 2026
+- Universidad LaSalle - Cursando 6to semestre 2026
 
 ## Contacto
 ¡Estoy interesado en oportunidades laborales emocionantes! Si deseas colaborar en proyectos interesantes o tienes una oferta laboral, no dudes en contactarme:
